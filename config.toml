@@ -10,9 +10,9 @@ enableGitInfo = false
 [params]
 address = "Coimbatore, India"
 favicon = "/favicon.ico"
-firstName = "Sathish Kumar"
-lastName = "Thiyagarajan"
-phone = "1-555-555-1234"
+firstName = "BARATH"
+lastName = "V"
+phone = ""
 profileImage = "https://avatars.githubusercontent.com/u/138578026?v=4"
 showQr = true
 showContact = true
@@ -25,7 +25,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/edwardwebb/"
+link = ""
 name = "LinkedIn"
 
 [[params.handles]]
