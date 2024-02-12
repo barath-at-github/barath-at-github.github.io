@@ -12,7 +12,7 @@ address = "Coimbatore, India"
 favicon = "/favicon.ico"
 firstName = "BARATH"
 lastName = "V"
-phone = ""
+phone = "9342521549"
 profileImage = "https://avatars.githubusercontent.com/u/138578026?v=4"
 showQr = true
 showContact = true
@@ -25,11 +25,11 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = ""
+link = "https://www.linkedin.com/in/barath-v-bb126a237/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/eddiewebb/"
+link = "https://github.com/barath-at-github/"
 name = "GitHub"
 
 [[params.handles]]
